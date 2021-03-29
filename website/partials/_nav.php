@@ -22,7 +22,9 @@
         </ul>
         <div class="dropdown mr-4 " id="user">
             <a href="#" class="dropdown-toggle text-decoration-none" data-toggle="dropdown"><i class="fa fa-user"
-                    aria-hidden="true"></i>&nbsp;&nbsp;<?php  echo $_SESSION['username'];?>&nbsp;&nbsp;</a>
+                    aria-hidden="true"></i>&nbsp;&nbsp;
+                    <!-- <?php  echo $_SESSION['username'];?>&nbsp;&nbsp; -->
+                    </a>
             <div class="dropdown-menu ">
                 <a class="dropdown-item" href="Logout.php"><span><button class="btn btn-danger btn-lg">Log Out</button></span></a>
             </div>

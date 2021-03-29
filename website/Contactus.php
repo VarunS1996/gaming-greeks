@@ -1,14 +1,14 @@
-<?php
+<!-- <?php
 
 // require 'partials/_dbconnect.php';
 
-//     session_start();
+    // session_start();
 
-//     if(!isset($_SESSION['username']))
-//     {
-//         header('location:Login.php');
-//     }
-?>
+    // if(!isset($_SESSION['username']))
+    // {
+        // header('location:Login.php');
+    // }
+?> -->
 <!doctype html>
 <html lang="en">
 
@@ -116,7 +116,7 @@
                     <textarea class="form-control" name="Desc" id="Desc" placeholder="Write Your Query Here" rows="5"
                         required></textarea>
                 </div>
-                <button class="btn btn-success p-2" name="submit">SUBMIT</button>
+                <button class="btn btn-success p-2" name="submit" disabled>SUBMIT</button>
             </form>
         </div>
 
