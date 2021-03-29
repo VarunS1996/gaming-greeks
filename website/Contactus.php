@@ -1,14 +1,14 @@
-<!-- <?php
+<?php
 
-require 'partials/_dbconnect.php';
+// require 'partials/_dbconnect.php';
 
-    session_start();
+//     session_start();
 
-    if(!isset($_SESSION['username']))
-    {
-        header('location:Login.php');
-    }
-?> -->
+//     if(!isset($_SESSION['username']))
+//     {
+//         header('location:Login.php');
+//     }
+?>
 <!doctype html>
 <html lang="en">
 
