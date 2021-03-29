@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 
 require 'partials/_dbconnect.php';
 
@@ -8,7 +8,7 @@ require 'partials/_dbconnect.php';
     {
         header('location:Login.php');
     }
-?>
+?> -->
 <!doctype html>
 <html lang="en">
 
