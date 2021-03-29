@@ -164,7 +164,7 @@
             </div>
             <div class="col-md-5">
                 <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-                    height="500" xmlns="images/mateo-vrbnjak-nCU4yq5xDEQ-unsplash.jpg" preserveAspectRatio="xMidYMid slice"
+                    height="500" xmlns="images/mark-cruz-VW2oU66mwbc-unsplash.jpg" preserveAspectRatio="xMidYMid slice"
                     focusable="false" role="img" aria-label="Placeholder: 500x500">
                     <title>Placeholder</title>
 <!--                     <rect width="100%" height="100%" fill="#eee"></rect><text x="50%" y="50%" fill="#aaa"
